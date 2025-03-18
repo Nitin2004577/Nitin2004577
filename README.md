@@ -25,7 +25,7 @@
 
 ###
 
-<p align="left">I'm Nitin Kumar Shah from Jhapa<br><br>- 🔭 I’m currently a student studying at IIC.<br>- 📚 I'm currently learning Python, React and Data Analysis<br>- ⚡ In my free time I like to code and make products.</p>
+<p align="left">I'm Nitin Kumar Shah from Jhapa<br><br>- 🔭 I’m currently a student studying at Itahari International College.<br>- 📚 I'm currently learning Python, React and Data Analysis<br>- ⚡ In my free time I like to code and make products.</p>
 
 ###
 
