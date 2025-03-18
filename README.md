@@ -71,7 +71,8 @@ I'm Nitin Kumar Shah from Jhapa<br><br>
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=nitinkumarshah&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=false&border_radius=5" height="220" alt="streak graph" />
 </div>
+
 
 ###
