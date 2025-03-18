@@ -16,7 +16,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=YOUR_GITHUB_USERNAME" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Nitin2OO3577" />
 </div>
 
 ###
@@ -75,7 +75,7 @@
 ## 🔥 My GitHub Stats  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=false&border_radius=5" height="180" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nitin2OO3577&show_icons=true&theme=radical&hide_border=false&border_radius=5" height="180" alt="GitHub stats" />
 </div>
 
 ---
@@ -83,7 +83,7 @@
 ## 📈 GitHub Streak  
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=false&border_radius=5" height="180" alt="GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nitin2OO3577&theme=radical&hide_border=false&border_radius=5" height="180" alt="GitHub streak" />
 </div>
 
 ---
@@ -91,22 +91,22 @@
 ## 📊 Most Used Languages  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=false&border_radius=5" height="180" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitin2OO3577&layout=compact&theme=radical&hide_border=false&border_radius=5" height="180" alt="Most Used Languages" />
 </div>
 
 ---
 
 ## 🛠 Projects  
 
-🔹 **[Sales Data Analysis](https://github.com/YOUR_GITHUB_USERNAME/sales-data-analysis)**  
+🔹 **[Sales Data Analysis](https://github.com/Nitin2OO3577/sales-data-analysis)**  
    - Used **Pandas, Matplotlib, and Seaborn** to analyze sales trends  
    - Generated **insights from real-world sales data**  
 
-🔹 **[Machine Learning Model for Price Prediction](https://github.com/YOUR_GITHUB_USERNAME/price-prediction-ml)**  
+🔹 **[Machine Learning Model for Price Prediction](https://github.com/Nitin2OO3577/price-prediction-ml)**  
    - Built using **Scikit-Learn, NumPy, and Pandas**  
    - Trained model to predict **housing prices**  
 
-🔹 **[Data Visualization Dashboard](https://github.com/YOUR_GITHUB_USERNAME/data-dashboard)**  
+🔹 **[Data Visualization Dashboard](https://github.com/Nitin2OO3577/data-dashboard)**  
    - Created with **Plotly, Dash, and Python**  
    - Interactive **visualizations for business insights**  
 
@@ -129,7 +129,7 @@
   <a href="mailto:shahnitin500@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/Nitin2OO3577">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
