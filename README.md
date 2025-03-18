@@ -83,7 +83,7 @@
 ## 📈 GitHub Streak  
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nitin2OO3577&theme=radical&hide_border=false&border_radius=5" height="180" alt="GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nitin2003577&theme=radical&hide_border=false&border_radius=5" height="180" alt="GitHub streak" />
 </div>
 
 ---
@@ -91,7 +91,7 @@
 ## 📊 Most Used Languages  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitin2OO3577&layout=compact&theme=radical&hide_border=false&border_radius=5" height="180" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitin2003577&layout=compact&theme=radical&hide_border=false&border_radius=5" height="180" alt="Most Used Languages" />
 </div>
 
 ---
