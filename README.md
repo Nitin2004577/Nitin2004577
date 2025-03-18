@@ -74,13 +74,7 @@
 
 ---
 
-## 📈 GitHub Streak  
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nitin2004577&theme=radical&hide_border=false&border_radius=5" height="180" alt="GitHub streak" />
-</div>
-
----
 
 ## 📊 Most Used Languages  
 
@@ -97,11 +91,11 @@
    - Generated **insights from real-world sales data**  
 
 🔹 **[Machine Learning Model for Price Prediction](https://github.com/Nitin2004577/price-prediction-ml)**  
-   - Built using **Scikit-Learn, NumPy, and Pandas**  
+   - Built using **NumPy, and Pandas**  
    - Trained model to predict **housing prices**  
 
 🔹 **[Data Visualization Dashboard](https://github.com/Nitin2004577/data-dashboard)**  
-   - Created with **Plotly, Dash, and Python**  
+   - Created with **Dash, and Python**  
    - Interactive **visualizations for business insights**  
 
 ---
@@ -109,7 +103,7 @@
 ## 🎯 What I'm Currently Working On  
 
 ✔ Mastering **Advanced Machine Learning Algorithms**  
-✔ Building **Real-World Data Dashboards**  
+✔ Building **Real-World Data Related Project**  
 ✔ Learning **Big Data Technologies (Hadoop, Spark, SQL, Cloud Computing)**  
 
 ---
