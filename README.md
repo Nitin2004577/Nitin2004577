@@ -50,7 +50,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
   <img width="12" />
-  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg](https://imgs.search.brave.com/17MP1QXptnXHnoqH5PyIiTdZb2qJNw78jIY1ShjtKHk/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly93MC5w/ZWFrcHguY29tL3dh/bGxwYXBlci8xODUv/MS9IRC13YWxscGFw/ZXItcHl0aG9uLWNv/ZGluZy1wcm9ncmFt/bWluZy5qcGc)" height="40" alt="docker logo"  />
+  <img src="[[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg](https://imgs.search.brave.com/17MP1QXptnXHnoqH5PyIiTdZb2qJNw78jIY1ShjtKHk/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly93MC5w/ZWFrcHguY29tL3dh/bGxwYXBlci8xODUv/MS9IRC13YWxscGFw/ZXItcHl0aG9uLWNv/ZGluZy1wcm9ncmFt/bWluZy5qcGc)](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)" height="40" alt="Python lo"  />
 </div>
 
 ###
