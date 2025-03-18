@@ -16,7 +16,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=nitinkumarshah.nitinkumarshah&" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=YOUR_GITHUB_USERNAME" />
 </div>
 
 ###
@@ -31,7 +31,16 @@
 
 ---
 
-### 🛠 Tools & Technologies
+## 🔹 About Me  
+
+- 🎓 **Student at Itahari International College**  
+- 🔍 **Currently Focusing on:** **Data Science & Data Analysis**  
+- 💡 **Skills:** Python, Machine Learning, SQL, PostgreSQL, Data Visualization  
+- ⚡ **In my free time:** I like to analyze data, build projects, and explore AI  
+
+---
+
+## 🛠 Languages & Tools  
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
@@ -50,26 +59,36 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter Notebook logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="SQLite logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git logo" />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="Tailwind CSS logo" />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" height="40" alt="Flask logo" />
 </div>
 
 ---
 
-### 🔥 My GitHub Stats
+## 🔥 My GitHub Stats  
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=false&border_radius=5" height="180" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=false&border_radius=5" height="180" alt="streak graph" />
 </div>
 
 ---
 
-### 📊 Most Used Languages
+## 📈 GitHub Streak  
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=false&border_radius=5" height="180" alt="GitHub streak" />
+</div>
+
+---
+
+## 📊 Most Used Languages  
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=false&border_radius=5" height="180" alt="Most Used Languages" />
@@ -77,30 +96,31 @@
 
 ---
 
-### 🔍 Data Science & Analysis Projects
+## 🛠 Projects  
 
-- 📊 **[Sales Data Analysis](https://github.com/YOUR_GITHUB_USERNAME/sales-data-analysis)**  
-  - Used **Pandas, Matplotlib, and Seaborn** to analyze sales trends  
-  - Generated **insights from real-world sales data**  
+🔹 **[Sales Data Analysis](https://github.com/YOUR_GITHUB_USERNAME/sales-data-analysis)**  
+   - Used **Pandas, Matplotlib, and Seaborn** to analyze sales trends  
+   - Generated **insights from real-world sales data**  
 
-- 🤖 **[Machine Learning Model for Price Prediction](https://github.com/YOUR_GITHUB_USERNAME/price-prediction-ml)**  
-  - Built using **Scikit-Learn, NumPy, and Pandas**  
-  - Trained model to predict **housing prices**  
+🔹 **[Machine Learning Model for Price Prediction](https://github.com/YOUR_GITHUB_USERNAME/price-prediction-ml)**  
+   - Built using **Scikit-Learn, NumPy, and Pandas**  
+   - Trained model to predict **housing prices**  
 
-- 🌍 **[Data Visualization Dashboard](https://github.com/YOUR_GITHUB_USERNAME/data-dashboard)**  
-  - Created with **Plotly, Dash, and Python**  
-  - Interactive **visualizations for business insights**  
+🔹 **[Data Visualization Dashboard](https://github.com/YOUR_GITHUB_USERNAME/data-dashboard)**  
+   - Created with **Plotly, Dash, and Python**  
+   - Interactive **visualizations for business insights**  
 
 ---
 
-### 🎯 What I'm Currently Working On  
+## 🎯 What I'm Currently Working On  
+
 ✔ Mastering **Advanced Machine Learning Algorithms**  
 ✔ Building **Real-World Data Dashboards**  
-✔ Learning **Big Data Technologies (Hadoop, Spark)**  
+✔ Learning **Big Data Technologies (Hadoop, Spark, SQL, Cloud Computing)**  
 
 ---
 
-### 🤝 Connect with Me  
+## 🤝 Connect with Me  
 
 <div align="center">
   <a href="https://www.linkedin.com/in/nitin-kumar-shah-689229326">
