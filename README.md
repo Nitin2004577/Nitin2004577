@@ -1,15 +1,15 @@
 <!-- Animated Dev GIF -->
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHRyMmJxYW44bmNlYjZjZ3R0MzI3bTFrZTlmMmp4Zm1zeHZjY3hiZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" alt="coder gif" />
+  <img height="160" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coder gif" />
 </div>
 
 <!-- Typing SVG Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=BE2EDD&center=true&vCenter=true&width=450&lines=Hi+%F0%9F%91%8B%2C+I'm+Nitin+Kumar+Shah;Full+Stack+Developer+(React+%2B+Django);BSc+Computing+Student+%7C+Open+to+Internships" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Nitin+Kumar+Shah;Final+Year+Project+Developer+-+CodeForge;MERN+Stack+Developer;Django+Backend+Developer;BSc+(Hons)+Computing+Student" alt="Typing SVG" />
 </div>
 
 <!-- Contact Badges -->
-<div align="center" style="margin-top: 20px;">
+<div align="center" style="margin-top: 18px;">
   <a href="https://www.linkedin.com/in/nitin-kumar-shah-689229326">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -23,40 +23,67 @@
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-- 🎓 BSc (Hons) Computing at Itahari International College (London Met Affiliated)
-- 🔭 Currently building: **Room Rental System (React + Django)**
-- 🌱 Learning: **JWT Auth**, **PostgreSQL**, and deployment with **Render & Vercel**
-- 💬 Ask me about: `React`, `Django`, `Python`, `JavaScript`
-- ⚡ Fun fact: I love turning backend APIs into seamless frontend flows
+🎓 **BSc (Hons) Computing** student at *Itahari International College (London Metropolitan University)*  
+💼 **MERN Stack Development Intern** at *Code IT Appsware*  
+🚀 Currently developing my **Final Year Project – CodeForge**
+
+I enjoy building **real-world full-stack applications**, focusing on **clean architecture, backend logic, and scalable systems**.  
+My long-term goal is to grow as a **Backend / Full Stack / Data-oriented Engineer**.
+
+---
+
+## 🎓 Final Year Project (FYP) – CodeForge
+
+🚀 **CodeForge** is an **AI-powered MERN stack platform** designed to simplify project creation, collaboration, and code management.
+
+### 🔹 Key Features
+- 🔐 Secure authentication & authorization
+- 📊 Project dashboard & management system
+- 🧩 Template-based project creation
+- 🧠 AI-assisted development support
+- ⚙️ Scalable & modular system design
+
+### 🛠️ Tech Stack
+- **Frontend:** React.js, Tailwind CSS
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB
+- **AI:** API-based intelligent features
+- **Tools:** GitHub, Postman, Trello
+
+📌 *This is my primary academic and technical project.*
 
 ---
 
 ## 🛠 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,django,python,js,html,css,tailwind,postgresql,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,django,python,js,html,css,tailwind,mongodb,postgresql,mysql,git,github,vscode" />
 </div>
 
 ---
 
 ## 📌 Featured Projects
 
-| Project | Tech | Description |
-|--------|------|-------------|
-| 🔹 [Room Rental System](https://github.com/Nitin2004577/room-rental-system) | Django, PostgreSQL | Full-stack app for listing and managing rental rooms |
-| 🔹 [Portfolio Website](https://github.com/Nitin2004577/my-portfolio) | React, CSS | Responsive personal portfolio showcasing skills and projects |
-| 🔹 [E-Commerce System](https://github.com/Nitin2004577/E-commerce-) | Python, MySQL | CLI backend for managing product orders and inventory |
-| 🔹 [CRUD API Project](https://github.com/Nitin2004577/crud-api) | Django REST Framework | Secure API with full CRUD endpoints and authentication |
+| Project | Tech Stack | Description |
+|------|-----------|-------------|
+| 🚀 **CodeForge (FYP)** | MERN + AI | AI-powered platform for project creation & management |
+| 🏠 **Room Rental System** | React, Django, PostgreSQL | Full-stack rental listing & management system |
+| 🎓 **Scholarship Management System** | Java, JSP, MVC | Role-based academic management system |
+| 🎬 **Cinema Management System** | SQL | Database design & normalization project |
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nitin2004577&show_icons=true&theme=tokyonight&border_radius=5" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitin2004577&layout=compact&theme=tokyonight&hide_border=false" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nitin2004577&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nitin2004577&theme=tokyonight" height="170"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitin2004577&layout=compact&theme=tokyonight" />
 </div>
 
 ---
@@ -74,7 +101,8 @@
 
 ---
 
-<!-- Visitor Badge (Optional) -->
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Nitin2004577.Nitin2004577" alt="Visitor Badge" />
+  <img src="https://komarev.com/ghpvc/?username=Nitin2004577&label=Profile%20Views&color=6C63FF&style=flat" />
 </p>
+
+⭐ *If you like my work, consider giving a star to my repositories.*
