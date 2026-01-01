@@ -38,21 +38,24 @@ My long-term goal is to grow as a **Backend / Full Stack / Data-oriented Enginee
 
 🚀 **CodeForge** is an **AI-powered, TypeScript-based MERN platform** designed to streamline project creation, collaboration, and intelligent code management.
 
-### 🔹 Key Features
+### 🔹 Core Features
 - 🔐 Secure authentication & role-based access
-- 📊 Project dashboard & management workflows
-- 🧩 Template-driven project creation
-- 🧠 AI-assisted development features
-- ⚙️ Scalable, modular & type-safe architecture
+- 📊 Project dashboard with structured workflows
+- 🧩 Template-based project creation (MERN-ready)
+- 🌐 **Web-based IDE for in-browser development**
+- ⚙️ **Automatic dependency installation during project creation**
+- 🧠 AI-assisted development & guidance
+- 🏗️ Scalable, modular & type-safe system architecture
 
 ### 🛠️ Tech Stack
 - **Frontend:** React.js, TypeScript, Tailwind CSS
 - **Backend:** Node.js, Express.js, TypeScript
 - **Database:** MongoDB
+- **IDE & Automation:** Server-side project setup & dependency management
 - **AI:** API-based intelligent services
 - **Tools:** GitHub, Postman, Trello
 
-💡 *TypeScript is used across the stack to ensure maintainability, scalability, and reliability.*
+💡 *CodeForge focuses on reducing project setup time by providing a ready-to-code web IDE with automated dependency handling.*
 
 ---
 
@@ -68,10 +71,10 @@ My long-term goal is to grow as a **Backend / Full Stack / Data-oriented Enginee
 
 | Project | Tech Stack | Description |
 |------|-----------|-------------|
-| 🚀 **CodeForge (FYP)** | MERN + TypeScript + AI | AI-powered platform for project creation & collaboration |
+| 🚀 **CodeForge (FYP)** | MERN + TypeScript + AI | AI-powered platform with web-based IDE & automated setup |
 | 🏠 **Room Rental System** | React, Django, PostgreSQL | Full-stack rental listing & management system |
 | 🎓 **Scholarship Management System** | Java, JSP, MVC | Academic management with role-based access |
-| 📓 **Smart Journal** | .NET MAUI, SQLite | Cross-platform journaling app with local data persistence |
+| 📓 **Smart Journal** | .NET MAUI, SQLite | Cross-platform journaling app with local persistence |
 
 ---
 
