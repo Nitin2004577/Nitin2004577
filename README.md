@@ -71,7 +71,7 @@ My long-term goal is to grow as a **Backend / Full Stack / Data-oriented Enginee
 | 🚀 **CodeForge (FYP)** | MERN + TypeScript + AI | AI-powered platform for project creation & collaboration |
 | 🏠 **Room Rental System** | React, Django, PostgreSQL | Full-stack rental listing & management system |
 | 🎓 **Scholarship Management System** | Java, JSP, MVC | Academic management with role-based access |
-| 🎬 **Cinema Management System** | SQL | Database design, normalization & queries |
+| 📓 **Smart Journal** | .NET MAUI, SQLite | Cross-platform journaling app with local data persistence |
 
 ---
 
@@ -105,4 +105,4 @@ My long-term goal is to grow as a **Backend / Full Stack / Data-oriented Enginee
   <img src="https://komarev.com/ghpvc/?username=Nitin2004577&label=Profile%20Views&color=6C63FF&style=flat" />
 </p>
 
-⭐
+⭐ *If you like my work, consider giving a star to my repositories.*
