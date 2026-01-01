@@ -80,14 +80,17 @@ My long-term goal is to grow as a **Backend / Full Stack / Data-oriented Enginee
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nitin2004577&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nitin2004577&theme=tokyonight" height="170"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nitin2004577&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=86400&rank_icon=github" height="170" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitin2004577&layout=compact&theme=tokyonight" />
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Nitin2004577&theme=tokyonight&hide_border=false" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitin2004577&layout=compact&theme=tokyonight&cache_seconds=86400" />
+</p>
 
 ---
 
