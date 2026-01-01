@@ -5,7 +5,7 @@
 
 <!-- Typing SVG Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Nitin+Kumar+Shah;Final+Year+Project+Developer+-+CodeForge;MERN+Stack+Developer;Django+Backend+Developer;BSc+(Hons)+Computing+Student" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Hi+👋+I'm+Nitin+Kumar+Shah;Final+Year+Project+Developer+-+CodeForge;MERN+Stack+%2B+TypeScript+Developer;Django+Backend+Developer;BSc+(Hons)+Computing+Student" alt="Typing SVG" />
 </div>
 
 <!-- Contact Badges -->
@@ -29,37 +29,37 @@
 💼 **MERN Stack Development Intern** at *Code IT Appsware*  
 🚀 Currently developing my **Final Year Project – CodeForge**
 
-I enjoy building **real-world full-stack applications**, focusing on **clean architecture, backend logic, and scalable systems**.  
+I enjoy building **scalable full-stack applications**, focusing on **clean architecture, type-safe backend systems, and real-world problem solving**.  
 My long-term goal is to grow as a **Backend / Full Stack / Data-oriented Engineer**.
 
 ---
 
 ## 🎓 Final Year Project (FYP) – CodeForge
 
-🚀 **CodeForge** is an **AI-powered MERN stack platform** designed to simplify project creation, collaboration, and code management.
+🚀 **CodeForge** is an **AI-powered, TypeScript-based MERN platform** designed to streamline project creation, collaboration, and intelligent code management.
 
 ### 🔹 Key Features
-- 🔐 Secure authentication & authorization
-- 📊 Project dashboard & management system
-- 🧩 Template-based project creation
-- 🧠 AI-assisted development support
-- ⚙️ Scalable & modular system design
+- 🔐 Secure authentication & role-based access
+- 📊 Project dashboard & management workflows
+- 🧩 Template-driven project creation
+- 🧠 AI-assisted development features
+- ⚙️ Scalable, modular & type-safe architecture
 
 ### 🛠️ Tech Stack
-- **Frontend:** React.js, Tailwind CSS
-- **Backend:** Node.js, Express.js
+- **Frontend:** React.js, TypeScript, Tailwind CSS
+- **Backend:** Node.js, Express.js, TypeScript
 - **Database:** MongoDB
-- **AI:** API-based intelligent features
+- **AI:** API-based intelligent services
 - **Tools:** GitHub, Postman, Trello
 
-📌 *This is my primary academic and technical project.*
+💡 *TypeScript is used across the stack to ensure maintainability, scalability, and reliability.*
 
 ---
 
 ## 🛠 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,django,python,js,html,css,tailwind,mongodb,postgresql,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=react,ts,nodejs,express,django,python,js,html,css,tailwind,mongodb,postgresql,mysql,git,github,vscode" />
 </div>
 
 ---
@@ -68,10 +68,10 @@ My long-term goal is to grow as a **Backend / Full Stack / Data-oriented Enginee
 
 | Project | Tech Stack | Description |
 |------|-----------|-------------|
-| 🚀 **CodeForge (FYP)** | MERN + AI | AI-powered platform for project creation & management |
+| 🚀 **CodeForge (FYP)** | MERN + TypeScript + AI | AI-powered platform for project creation & collaboration |
 | 🏠 **Room Rental System** | React, Django, PostgreSQL | Full-stack rental listing & management system |
-| 🎓 **Scholarship Management System** | Java, JSP, MVC | Role-based academic management system |
-| 🎬 **Cinema Management System** | SQL | Database design & normalization project |
+| 🎓 **Scholarship Management System** | Java, JSP, MVC | Academic management with role-based access |
+| 🎬 **Cinema Management System** | SQL | Database design, normalization & queries |
 
 ---
 
@@ -105,4 +105,4 @@ My long-term goal is to grow as a **Backend / Full Stack / Data-oriented Enginee
   <img src="https://komarev.com/ghpvc/?username=Nitin2004577&label=Profile%20Views&color=6C63FF&style=flat" />
 </p>
 
-⭐ *If you like my work, consider giving a star to my repositories.*
+⭐
