@@ -62,21 +62,11 @@ My long-term goal is to grow as a **Backend / Full Stack / Data-oriented Enginee
 ## 🛠 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,nodejs,express,django,python,js,html,css,tailwind,mongodb,postgresql,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=react,ts,nodejs,express,django,python,mongodb,postgresql,mysql,git,github" />
 </div>
 
 ---
 
-## 📌 Featured Projects
-
-| Project | Tech Stack | Description |
-|------|-----------|-------------|
-| 🚀 **CodeForge (FYP)** | MERN + TypeScript + AI | AI-powered platform with web-based IDE & automated setup |
-| 🏠 **Room Rental System** | React, Django, PostgreSQL | Full-stack rental listing & management system |
-| 🎓 **Scholarship Management System** | Java, JSP, MVC | Academic management with role-based access |
-| 📓 **Smart Journal** | .NET MAUI, SQLite | Cross-platform journaling app with local persistence |
-
----
 
 ## 📊 GitHub Stats
 
